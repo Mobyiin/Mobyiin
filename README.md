@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Source+Code+Pro&weight=600&size=28&duration=3500&pause=1500&color=9D4EDD&width=600&lines=%F0%9F%91%8B+Hi%2C+I%27m+Mobin;Front-End+Developer+in+Progress+%F0%9F%92%BB;Future+Full-Stack+Developer+%F0%9F%9A%80;Always+Curious+About+New+Tech+%F0%9F%94%8E" alt="Info">
 </h1>
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me:
 
 - 🧠 Currently Learning **HTML, CSS And JavaScript**
 - 💡 Passionate About Becoming A **Full-Stack Developer**
@@ -10,7 +10,7 @@
 - 📚 Always Excited To Learn New Technologies And Build Cool Stuff
 
 
-## 📌 Goals
+## 📌 Goals:
 
 - ✅ Master **HTML** And **CSS**, Including FlexBox, Grid, And Responsive Design
 - 🔄 Learn **JavaScript** Deeply And Build Interactive UI Components
@@ -27,6 +27,7 @@
 
 
 ## 🛠️ Skills & Technologies:
+
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -38,6 +39,7 @@
 
 
 ## 🌐 Socials:
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mobyiin)
 [![Telegram](https://img.shields.io/badge/Telegram-%239146FF.svg?logo=Telegram&logoColor=white)](http://t.me/MobyiinDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mobyiin)
@@ -47,13 +49,15 @@
 
 
 
+## 🎓 Education:
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mobyiin&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Mobyiin&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mobyiin&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- 🏫 University: Yasuj University, Iran
+- 🗂️ Degree: Bachelor's In Computer Engineering
+- 📅 Current Term: 4th Term
 
----
-[![](https://visitcount.itsvg.in/api?id=Mobyiin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
