@@ -19,11 +19,9 @@
 - 🚀 Start Learning **React.js** And Component-Based Architecture
 - 💡 Work On Personal Projects Using Modern Front-End Tools
 - 🔙 Begin Exploring **Back-End Development** (Node.js, Express, MongoDB)
-- 🌍 Build And Deploy **Full-Stack Apps**
-- 🎯 Become A Skilled **Full-Stack Developer**
+- 🎯 Build And Deploy **Full-Stack Apps** And Become A Skilled **Full-Stack Developer** 
 - 🏆 Contribute To **Open-Source Projects**
 - 🔐 Learn About **APIs**, **Authentication**, And **Security Basics**
-
 
 
 ## 🛠️ Skills & Technologies:
@@ -37,7 +35,6 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
 
-
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mobyiin)
@@ -46,7 +43,6 @@
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Mobyiin)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mobyiin)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mobinyaghooti5@gmail.com) 
-
 
 
 ## 🎓 Education:
