@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-👨‍💻 Front-End Enthusiast On A Learning Journey — Aiming To Become A Full-Stack Developer With A Strong Interest In Back-end Development.<br>, I Thrive On Tackling Diverse And Challenging Projects That Push My Problem-Solving Abilities And Allow Me To Learn And Grow<br>, I Am Always Eager To Embrace New Opportunities And Enhance My Skills
+👨‍💻 Front-End Enthusiast On A Learning Journey — Aiming To Become A Full-Stack Developer With A Strong Interest In Back-End Development.<br>, I Thrive On Tackling Diverse And Challenging Projects That Push My Problem-Solving Abilities And Allow Me To Learn And Grow<br>, I Am Always Eager To Embrace New Opportunities And Enhance My Skills
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mobyiin)
