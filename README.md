@@ -10,20 +10,6 @@
 - 📚 Always Excited To Learn New Technologies And Build Cool Stuff
 
 
-## 📌 Goals:
-
-- ✅ Master **HTML** And **CSS**, Including FlexBox, Grid, And Responsive Design
-- 🔄 Learn **JavaScript** Deeply And Build Interactive UI Components
-- 🧪 Create **Mini Projects** To Practice Real-World Front-End Skills
-- 🔧 Become Comfortable Using **Git And GitHub** For Version Control
-- 🚀 Start Learning **React.js** And Component-Based Architecture
-- 💡 Work On Personal Projects Using Modern Front-End Tools
-- 🔙 Begin Exploring **Back-End Development** (Node.js, Express, MongoDB)
-- 🎯 Build And Deploy **Full-Stack Apps** And Become A Skilled **Full-Stack Developer** 
-- 🏆 Contribute To **Open-Source Projects**
-- 🔐 Learn About **APIs**, **Authentication**, And **Security Basics**
-
-
 ## 🛠️ Skills & Technologies:
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
