@@ -6,7 +6,7 @@
 
 - 🧠 Currently Learning **HTML, CSS And JavaScript**
 - 💡 Passionate About Becoming A **Full-Stack Developer**
-- 🛠️ Interested In **Back-End Development** (Node.js, APIs, Databases)
+- 🛠️ Interested In **Back-End And Mobile Development** (Node.js, APIs, Databases) 
 - 📚 Always Excited To Learn New Technologies And Build Cool Stuff
 
 
