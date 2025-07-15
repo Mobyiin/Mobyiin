@@ -38,6 +38,14 @@
 - 📅 Current Term: 4th Term
 
 
+## 🏆 Certificate
+
+### Mastering Git, GitHub, and GitLab: Your Ultimate Guide to Version Control  
+**Issuer:** FaraDars  
+**Certificate ID:** C44F1D39
+**Date:** July 15, 2025  
+**Instructor:** Eng.Jadi Mirmirani  
+🔗[View Certificate](https://faradars.org/verify/C44F1D39)
 
 
 
