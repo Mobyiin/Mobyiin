@@ -37,6 +37,7 @@
 - 🗂️ Degree: Bachelor's In Computer Engineering
 - 📅 Current Term: 4th Term
 
+## 🏆 Certificate
 
 <details>
   <summary>📜 Mastering Git, GitHub, and GitLab (click to view details)</summary>
