@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Source+Code+Pro&weight=600&size=28&duration=3500&pause=1500&color=9D4EDD&width=600&lines=%F0%9F%91%8B+Hi%2C+I%27m+Mobin;Front-End+Developer+in+Progress+%F0%9F%92%BB;Always+Curious+About+New+Tech+%F0%9F%94%8E" alt="Info">
+  <img src="https://readme-typing-svg.demolab.com/?font=Source+Code+Pro&weight=600&size=28&duration=3500&pause=1500&color=9D4EDD&width=600&lines=%F0%9F%91%8B+Hi%2C+I%27m+Mobin;Always+Curious+About+New+Tech+%F0%9F%94%8E" alt="Info">
 </h1>
 
 ## 👨‍💻 About Me:
