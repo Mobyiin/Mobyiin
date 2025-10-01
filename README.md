@@ -31,7 +31,7 @@
 
 - 🏫 University: Yasuj University, Iran
 - 🗂️ Degree: Bachelor's In Computer Engineering
-- 📅 Current Term: 4th Term
+- 📅 Current Term: 5th Term
 
 ## 🏆 Certificate
 
