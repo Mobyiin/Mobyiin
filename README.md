@@ -3,7 +3,7 @@
 </h1>
 
 ## 👨‍💻 About Me:
-- 🛠️ Interested In **Back-End And Mobile Development**
+- 🛠️ Now Interested In **Network**
 - 📚 Always Excited To Learn New Technologies And Build Cool Stuff
 
 
