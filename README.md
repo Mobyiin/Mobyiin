@@ -48,4 +48,17 @@
 
 </details>
 
+<details>
+  <summary>📜 Beginner Telegram Bot Development Python (click to view details)</summary>
+
+  <br>
+
+  **Issuer:** FaraDars  
+  **Certificate ID:** 61926DDF  
+  **Date:** December 25, 2025  
+  **Instructor:** Eng. Pouya Jamali  
+  🔗 [View Certificate](https://faradars.org/verify/61926DDF)
+
+</details>
+
 
